@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'PT_sans';
+    src: url('../fonts/PT_Sans/PT_Sans-Web-Regular.ttf') format('truetype');
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'PT_sans';
+    src: url('../fonts/PT_Sans/PT_Sans-Web-Bold.ttf') format('truetype');
+    font-weight: bold;
+}

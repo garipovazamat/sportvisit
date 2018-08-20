@@ -1,0 +1,266 @@
+body{
+    font-size: 16px;
+}
+img{
+    max-width: 100%;
+}
+div{
+    font-family: PT_sans;
+}
+.navbar-inverse{
+    background: #008f32;
+    border-color: #008f32;
+}
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus{
+    background-color: #47954b;
+}
+
+.navbar-inverse .navbar-nav > .open > a,
+.navbar-inverse .navbar-nav > .open > a:hover,
+.navbar-inverse .navbar-nav > .open > a:focus{
+    background-color: #3C763D;
+}
+
+.navbar-inverse .navbar-nav > li > a{
+    color: #ffffff;
+}
+.navbar-inverse .navbar-brand{
+    color: #ffffff;
+}
+.myforms{
+    margin: 0 auto;
+    max-width: 700px;
+}
+.date_widget_group {
+    max-width: 300px;
+}
+.event_name_form{
+max-width: 300px;
+}
+.events_list, .event_form{
+    max-width: 900px;
+    margin: 0 auto;
+}
+.event_desc{
+    padding-bottom: 5px;
+    position: relative;
+    font-size: 17px;
+}
+.event_desc p{
+    margin-bottom: 3px;
+}
+.event_date{
+    font-size: 14px;
+    color: #414141;
+}
+.even_list_name{
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: 20px;
+}
+.event_thumb{
+    border-radius: 50px;
+}
+.org_create{
+    max-width: 900px;
+    margin: 0 auto;
+}
+.little_fields{
+    max-width: 350px;
+}
+.org_phone{
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.org_desc{
+    font-size: 17px;
+    margin-top: 20px;
+}
+.header{
+    font-weight: bold;
+    font-size: 26px;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+.org_owner_block{
+    font-weight: bold;
+    font-size: 17px;
+    margin-bottom: 12px;
+}
+.main_header{
+    margin-top: 51px;
+    width: 100%;
+    height: 191px;
+    background: #00b147;
+}
+.main_header .mycontent{
+    max-width: 1170px;
+    margin: 0 auto;
+    position: relative;
+}
+#logo_block{
+    padding-top: 10px;
+    float: left;
+    margin-right: 20px;
+    margin-left: 10px;
+}
+.head_help{
+    font-size: 20px;
+    color: #ffffff;
+    max-width: 270px;
+    padding-top: 32px;
+    text-align: center;
+    float: left;
+}
+.head_help p{
+    font-size: 16px;
+    color: #d5d5d5;
+}
+.org_event_head{
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 50px;
+}
+.org_event{
+    max-width: 700px;
+    margin: 0 auto;
+}
+.org_view{
+    max-width: 900px;
+    margin: 0 auto;
+}
+.event_view{
+    max-width: 900px;
+    margin: 0 auto;
+}
+.org_index{
+    max-width: 900px;
+    margin: 0 auto;
+}
+.section_head{
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 35px;
+}
+.section_content{
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.thumb_column{
+    width: 100px;
+}
+.profile_page{
+    max-width: 900px;
+    margin: 0 auto;
+}
+.profile_page .left_block{
+    max-width: 300px;
+    float: left;
+    margin-right: 20px;
+}
+
+.profile_page .right_block{
+}
+.user_form{
+    max-width: 700px;
+    margin: 0 auto;
+}
+.form-control{
+    font-size: 16px;
+}
+.site-login{
+    margin: 0 auto;
+    max-width: 380px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: center;
+}
+.vk-enter{
+    margin: 20px auto;
+    display: block;
+    color: #2c2c2c;
+    font-weight: bold;
+}
+.vk-enter:hover{
+    color: #646464;
+    text-decoration: none;
+}
+.avatar{
+    width: 250px;
+    max-height: 500px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.required label:after {
+    content: '*';
+    color: red;
+}
+.search_block{
+    height: 92px;
+}
+.search_block .form-group{
+    float: left;
+}
+.eventmap{
+    margin-top: 27px;
+    margin-left: 10px;
+    float: left;
+}
+.site-index{
+    margin-top: -42px;
+}
+.sity_choose{
+    max-width: 280px;
+}
+.attention{
+    font-size: 13px;
+    margin-bottom: 14px;
+    color: #797979;
+}
+.social{
+    float: right;
+    margin-top: 50px;
+    font-size: 20px;
+    color: #ffffff;
+}
+.social a{
+    color: #ffffff;
+}
+.social a:hover{
+    color: #e2e2e2;
+    text-decoration: none;
+}
+.social img{
+    width: 70px;
+}
+.social_block{
+    font-size: 17px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+.soc_title{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.request{
+    height: 35px;
+}
+.request_btn{
+    float: left;
+}
+.request_text{
+    font-size: 15px;
+    margin-top: 7px;
+    margin-left: 10px;
+    float: left;
+    color: #5a5a5a;
+}
